@@ -1,8 +1,8 @@
 ### Olá! Eu Sou a Irene Cardoso 
 
 
-- 🔭 Em busca da minha primeira oportunidade em Front-end
-- 🌱 Estou atualmente no 5°Semestre de ADS pela Uninove e realizando cursos correlatos .
+- 🔭 Em busca da minha primeira oportunidade na area de T.i
+- 🌱 Formada em ADS pela Uninove e realizando cursos correlatos .
 - 🤔 Estou procurando conhecimentos ,dicas e ajuda com tudo relacionado a Programacão , Jogos e etc.
 - 📫 Como chegar até mim: irenecardososra@outlook.com
 - 😄 Pronomes: Ela/Dela
